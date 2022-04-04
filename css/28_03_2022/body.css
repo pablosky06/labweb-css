@@ -1,6 +1,7 @@
 body {
-  padding-left: 11em;
-  font-family: Georgia, "Times New Roman",
-        Times, serif;
-  color: purple;
-  background-color: #d8da3d }
+  padding-left: 12em;
+  font-family: Georgia,;
+  color: black;
+  background-image: url('http://arc-anglerfish-arc2-prod-abccolor.s3.amazonaws.com/public/2TFW6LKDYVEIXKYIH4HQZWXQXQ.jpg');
+  background-size: cover;
+}
